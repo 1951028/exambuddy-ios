@@ -1,0 +1,8 @@
+Package: com.exambuddy.electric
+Name: ExamBuddy
+Version: 2.13
+Architecture: iphoneos-arm
+Description: 考试宝宝 - 电气基础题库离线练习（1251 题，数据存手机本地）
+Author: ExamBuddy
+Maintainer: ExamBuddy
+Section: Education
